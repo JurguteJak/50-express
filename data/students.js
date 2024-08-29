@@ -19,4 +19,9 @@ export const students = {
         age: 66,
         isMarried: true,
     },
+    optimus: {
+        name: 'Optimus Prime',
+        age: Infinity,
+        isMarried: () => { },
+    },
 };
